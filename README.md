@@ -3,7 +3,7 @@
 Course assignments for **Introduction to Deep Learning** (University, 2023).  
 Each folder contains the assignment specification, Jupyter notebooks with experiments, and a written report.
   
----
+
  
 ## Folder Overview
  
@@ -15,7 +15,7 @@ Each folder contains the assignment specification, Jupyter notebooks with experi
 - Distance-based classifiers (nearest-neighbour variants)
 - Building a neural network from scratch for the XOR problem
  
----
+
  
 ### `MLPs_CNNs_GANs/`
 Hands-on with Keras/TensorFlow: building and comparing deep network architectures for classification, regression, and image generation.
@@ -26,7 +26,7 @@ Hands-on with Keras/TensorFlow: building and comparing deep network architecture
 - CNN for the "tell-the-time" regression problem
 - Generative models (VAE / GAN) with latent-space experiments
  
----
+
  
 ### `RNNs/`
 Sequence-to-sequence modelling with encoder-decoder RNNs, applied to arithmetic and MNIST-based inputs.
@@ -37,7 +37,7 @@ Sequence-to-sequence modelling with encoder-decoder RNNs, applied to arithmetic 
 - Multi-modal input: MNIST handwritten digits as alternative query representation
 - Generalisation with limited training data
  
----
+
  
 ## Requirements
  
