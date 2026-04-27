@@ -5,7 +5,7 @@ Each folder contains the assignment specification, Jupyter notebooks with experi
   
 
  
-## Folder Overview
+## Folders
  
 ### `classifiers_and_nn_intro/`
 
